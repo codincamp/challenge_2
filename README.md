@@ -4,7 +4,7 @@ Remarques préliminaires :
 - Tous les textes peuvent être remplacé aléatoirement (http://slipsum.com/)
 
 Fonts :
- - Titre: "Terminal Dosis" (Google Font: http://fonts.googleapis.com/css?family=Terminal+Dosis%3A200%2C400&#038;ver=4.2.2 )
+ - Titre: "Terminal Dosis" (disparue de Google Fonts, donc vous pouvez utiliser celle que vous voulez)
  - Toutes les autres "Helvetica"
 
 Couleurs :
