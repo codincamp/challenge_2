@@ -1,4 +1,4 @@
-Briefing pour la réalisation du template "Origami"
+# Briefing pour la réalisation du template "Origami"
 
 Remarques préliminaires :
 - Tous les textes peuvent être remplacé aléatoirement (http://slipsum.com/)
